@@ -30,3 +30,5 @@ CREATE TABLE applications (
     FOREIGN KEY (circular_id) REFERENCES circulars(id) ON DELETE CASCADE,
     UNIQUE(user_id, circular_id)
 );
+wahid
+islam
